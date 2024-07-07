@@ -1,5 +1,5 @@
 {
-    "name": "gghughunishvili/entrust",
+    "name": "mfjordvald/entrust",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel/Lumen 6",
     "keywords": [
         "laravel",
